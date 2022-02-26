@@ -1,5 +1,4 @@
-
-import java.util.Arrays;
+package uni.two;
 import java.lang.Math;
 public class Shape {
     double mohit , masahat; 
@@ -17,7 +16,6 @@ public class Shape {
         String recs = String.format("masahat in Mostatil ya Morabae %f va mohit aan %f ast!", rect.mohit, rect.masahat); // String value  
         return recs;
     }
-
 
     public static void main(String[] args) {
         System.out.println(circle(3));    
