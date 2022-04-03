@@ -1,4 +1,3 @@
-package uni.two;
 import java.lang.Math;
 public class Shape {
     double mohit , masahat; 
